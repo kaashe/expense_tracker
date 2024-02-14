@@ -5,4 +5,4 @@ it is totally aimed to express the knowledge of simple state management with hoo
 # open it in a code editor or simply go to cmd or terminal(ubuntu)
 # npm i or yarn 
 # npm start or yarn start
-# happy coding ....
+# happy coding ....!
